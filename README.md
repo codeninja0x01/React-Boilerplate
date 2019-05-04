@@ -38,7 +38,7 @@ Go to the project dir and start your app with this yarn script.
 yarn star
 ```
 
-> This starts a local server using `ibpack`, which will watch for any file changes and will restart the sever according to these changes.
+> This starts a local server using `webpack`, which will watch for any file changes and will restart the sever according to these changes.
 > The server address will be displayed to you as `http://0.0.0.0:3000`.
 
 
