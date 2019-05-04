@@ -59,8 +59,6 @@ yarn star
 | **src/routes/**         |This is the folder where pages of the project can be found. Index.js file in this folder is responsible for parent page route defining. Every folder under this directory also has an index.js file which has a duty to define routes for sub pages. Files beside index.js are the pages of the project. You may reach this folder with Routes alias from all directories. |
 | **src/util/**             |Utilities that used throughout the project is located here. You may reach this folder with Utils alias from all directories. |
 
-![divider](./w3tec-divider.png)
-
 ## ❯ Adding Menu Item to Sidebar
 
 Menu has a two basic item that one is for "parent" and other one is "subpage"
