@@ -24,18 +24,12 @@ Install [Node.js and NPM](https://nodejs.org/en/download/)
 - on OSX use [homebrew](http://brew.sh) `brew install node`
 - on Windows use [chocolatey](https://chocolatey.org/) `choco install nodejs`
 
-Install yarn globally
-
-```bash
-yarn install yarn -g
-```
-
 ### Step 2: Serve your App
 
 Go to the project dir and start your app with this yarn script.
 
 ```bash
-yarn star
+npm start
 ```
 
 > This starts a local server using `webpack`, which will watch for any file changes and will restart the sever according to these changes.
